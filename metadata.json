@@ -1,0 +1,5 @@
+{
+  "name": "Poulwey Abschleppdienst",
+  "description": "Moderner Webauftritt für den Poulwey Abschlepp- und Bergedienst - Ihr zuverlässiger Partner im Pannenfall.",
+  "requestFramePermissions": ["geolocation"]
+}
